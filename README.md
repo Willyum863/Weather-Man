@@ -1,4 +1,6 @@
 # Weather-Man
+Weather app made with HTML,CSS,JS,Bootstrap,Jquery
+
 
 
 
