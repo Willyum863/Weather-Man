@@ -1,6 +1,6 @@
 # Weather-Man
 Weather app made with HTML,CSS,JS,Bootstrap,Jquery
-
+5 day weather forcast based on city search inluding temp and UV
 
 
 
